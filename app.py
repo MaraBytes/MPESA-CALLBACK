@@ -36,4 +36,4 @@ def mpesa_callback():
 
 if __name__ == '__main__':
     # Run the server on a specific port (e.g., 5000)
-    app.run(port=5000)
+     app.run()
